@@ -1,5 +1,8 @@
 # Bug Hunter
 
+
+  <img src="bug-hunter-hero.png" alt="Project hero banner" width="100%">
+
 **Find the bug your tests missed.** A focused, evidence-driven code-review skill for AI coding agents.
 
 Bug Hunter helps an agent inspect a change or codebase for correctness defects, security risks, regressions, and missing edge cases. It prioritizes actionable findings over noisy style comments.
